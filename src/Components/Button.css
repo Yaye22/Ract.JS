@@ -1,0 +1,9 @@
+.buttoncss {
+    background-color: plum;
+    height: 50px;
+    width: 250px;
+    font-size: 20px;
+    color: blueviolet;
+    border-radius: 20px;
+    margin-top: 20px;
+}
